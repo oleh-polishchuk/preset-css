@@ -9,6 +9,9 @@
   "np": {
     "tests": false
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oleh-polishchuk/preset-css.git"
