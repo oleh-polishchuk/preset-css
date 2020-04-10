@@ -1,5 +1,5 @@
 {
-  "name": "preset-css",
+  "name": "@oleh-polishchuk/preset-css",
   "version": "0.0.0",
   "description": "Like reset-css but better",
   "main": "index.js",
